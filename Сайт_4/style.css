@@ -1,0 +1,30 @@
+table {
+  color:green;
+  font-weight: bold;
+}
+
+.list {
+  color:blue;
+  font-weight: bold;
+  list-style: none;
+}
+
+.about_system {
+  font-style: italic;
+}
+
+.about_site {
+  color: green;
+}
+
+.horizontalList {
+  display: inline;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+a:active {
+  background-color: green;
+}
